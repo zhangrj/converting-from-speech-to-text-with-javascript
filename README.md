@@ -8,5 +8,5 @@
 
 此App无需使用任何花哨的依赖，只需使用jQuery来进行简单的DOM操作，以及Shoelace实现简单的样式，并使用CDN直接将它们包含到文件中。
 
-代码解析：[http://www.icoder.top/blog/index.php/2017/09/24/converting-from-speech-to-text-with-javascript/](http://www.icoder.top/blog/index.php/2017/09/24/converting-from-speech-to-text-with-javascript/)
+代码解析：[http://www.icoder.top/blog/?p=675](http://www.icoder.top/blog/?p=675)
 ![](http://wx4.sinaimg.cn/large/005NrfBdly1fjuw65jl2hj30ll0ohq3e.jpg)
